@@ -1,0 +1,29 @@
+{
+  "room tipes":[
+  {
+    "tipe": "Economy",
+    "size": "12 m²",
+    "view": "atrium"
+  },
+  {
+    "tipe": "Standart",
+    "size": "20 m²",
+    "view": "garden"
+  },
+  {
+    "tipe": "Superior",
+    "size": "33 m²",
+    "view": "pool"
+  },
+  {
+    "tipe": "Delux",
+    "size": "55 m²",
+    "view": "sea"
+  },
+  {
+    "tipe": "Suite",
+    "size": "64 m²",
+    "view": "lateral sea"
+  }
+]
+}

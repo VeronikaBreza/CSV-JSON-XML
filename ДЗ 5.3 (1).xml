@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<room_tipes>
+  <room>
+    <tipe>Economy</tipe>
+    <size>12 m²</size>
+    <view>atrium</view>
+  </room>
+  <room>
+    <tipe>Standart</tipe>
+    <size>20 m²</size>
+    <view>garden</view>
+  </room>
+  <room>
+    <tipe>Superior</tipe>
+    <size>33 m²</size>
+    <view>pool</view>
+  </room>
+  <room>
+    <tipe>Delux</tipe>
+    <size>55 m²</size>
+    <view>sea</view>
+  </room>
+  <room>
+    <tipe>Suite</tipe>
+    <size>64 m²</size>
+    <view>lateral sea</view>
+  </room>
+</room_tipes>
